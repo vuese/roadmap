@@ -12,6 +12,7 @@ In the 2.x version, `vuese` will be managed as [monorepo](https://github.com/bab
 - Generate markdown files to the specified directory.
 - Generate the markdown file in the same component folder. (Related: [#17](https://github.com/vuese/vuese/issues/17))
 - Easily preview components as documents
+- Integrate existing document systems
 
 ## @vuese/parser
 
@@ -81,3 +82,7 @@ What needs to be done is:
 
 - More convenient to view the analysis results of various features
   - Need a selection button, options include: `jsx`, `Object-based`, `class-based`, etc.
+
+## Independent document project
+
+Document site
