@@ -12,6 +12,7 @@ In the 2.x version, `vuese` will be managed as [monorepo](https://github.com/bab
 - Generate markdown files to the specified directory.
 - Generate the markdown file in the same component folder. (Related: [#17](https://github.com/vuese/vuese/issues/17))
 - Easily preview components as documents
+- Incremental update
 - Integrate existing document systems
 
 ## @vuese/parser
