@@ -44,6 +44,8 @@ If something is missing here, thanks for submitting PR:
     - Component name
   - componentDesc
     - Description of the component
+  - Ability to get a list of the imports referenced by an SFC
+  - Ability to get a list of the dependent components.
 
 ## @vuese/markdown-render
 
